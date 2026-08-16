@@ -1,0 +1,6 @@
+{
+  "name": "Đấu Trường Khu Tự Trị",
+  "description": "Game show đấu trường ôn tập kiến thức trực tuyến thời gian thực với 3 trạm thử thách, hệ thống điểm & EXP, quyền năng chiến thuật và dashboard giáo viên.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
